@@ -1,2 +1,2 @@
 # primeshopie
-Visit - <a href="https://visheshcreations.github.io/primeshopie/"></a>
+<a href="https://visheshcreations.github.io/primeshopie/">Visit</a>
